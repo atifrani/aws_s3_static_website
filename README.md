@@ -1,4 +1,4 @@
-# webapp3
+# aws s3 static website:
 You can configure an Amazon S3 bucket to function like a website. 
 
 ## Create bucket:
